@@ -1,0 +1,50 @@
+# Cowork / Claude internal
+.claude/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Compiled Java
+*.class
+*.jar
+
+# Compiled C++
+*.o
+*.out
+a.out
+
+# C++ compiled test executables (files starting with "test_" with no extension)
+test_*
+
+# IntelliJ IDEA / IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# Build output
+build/
+out/
+target/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.ipynb_checkpoints/
+
+# Temp files
+*.tmp
+*.log
+
+# Creation meta files (internal scaffolding artifacts)
+CREATION_SUMMARY.txt
+README_FILES.txt
+FILES_14-17_README.txt
