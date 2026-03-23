@@ -15,8 +15,8 @@
 | 1.03 | [Class loading phases — Loading, Linking (Verify/Prepare/Resolve), Initializing](Java/03%20-%20Class%20Loading%20Phases.pdf) | - [ ] |
 | 1.04 | [JIT Compiler — interpreted vs compiled execution, tiered compilation](Java/04%20-%20JIT%20Compiler.pdf) | - [ ] |
 | 1.05 | [JVM Memory Layout — Heap, Stack, Method Area, PC Register, Native Stack](Java/05%20-%20JVM%20Memory%20Layout.pdf) | - [ ] |
-| 1.06 | Stack frames — local variables, operand stack, return address | - [ ] |
-| 1.07 | How Java achieves platform independence (bytecode + JVM contract) | - [ ] |
+| 1.06 | [Stack frames — local variables, operand stack, return address](Java/06%20-%20Stack%20Frames%20and%20Operand%20Stack.pdf) | - [ ] |
+| 1.07 | [How Java achieves platform independence (bytecode + JVM contract)](Java/07%20-%20Platform%20Independence.pdf) | - [ ] |
 
 ---
 
@@ -24,8 +24,8 @@
 
 | # | Topic | Studied |
 |---|-------|---------|
-| 2.01 | Primitive types — sizes, ranges, default values | - [ ] |
-| 2.02 | Wrapper classes & Autoboxing / Unboxing — caching range (-128 to 127) | - [ ] |
+| 2.01 | [Primitive types — sizes, ranges, default values](Java/08%20-%20Primitive%20Types.pdf) | - [ ] |
+| 2.02 | [Wrapper classes & Autoboxing / Unboxing — caching range (-128 to 127)](Java/09%20-%20Wrapper%20Classes%20and%20Autoboxing.pdf) | - [ ] |
 | 2.03 | Type casting — widening vs narrowing, truncation risks | - [ ] |
 | 2.04 | Operators — bitwise, shift, ternary, instanceof | - [ ] |
 | 2.05 | String class — immutability, String Pool, `intern()` | - [ ] |
